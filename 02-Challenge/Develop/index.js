@@ -103,8 +103,6 @@ const generateReadme = ({ Title, Description, Usage, Installation, Credits, Cont
     ${License}
 `;
 
-return markdownText;
-
 // Bonus using writeFileSync as a promise
 const init = () => {
   promptUser()
