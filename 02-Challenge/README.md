@@ -2,6 +2,13 @@
 
 ##Title
     Readme Generator
+    
+<p align="center">
+  <a href="#description">Description</a> •
+  <a href="#usage">How To Use</a> •
+  <a href="#license">License</a>•
+  <a href="#examples">Examples</a>
+</p>
 
 ##Description
     A backend web application that generates a readme file and allows you to answer a series of prompts to create the file.
